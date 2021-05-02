@@ -1,7 +1,10 @@
 # SolveMySudoku
 
-This is a Deep Learning project which uses Python and OpenCV to solve a sudoku. 
+This is a Deep Learning project which uses Python and OpenCV to solve a sudoku.
+
+ 
 Check out the images to find out how the program works.
+![](test.jpg)
 
 ## How To Run The Project 
 
